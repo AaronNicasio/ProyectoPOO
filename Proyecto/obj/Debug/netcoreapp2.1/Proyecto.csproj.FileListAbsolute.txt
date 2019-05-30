@@ -1,0 +1,22 @@
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csprojAssemblyReference.cache
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfo.cs
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.deps.json
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.json
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.dev.json
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.dll
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.pdb
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.dll
+C:\Users\Aaron Nicasio\source\repos\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.pdb
+E:\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.deps.json
+E:\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.json
+E:\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.dev.json
+E:\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.dll
+E:\Proyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.pdb
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csprojAssemblyReference.cache
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfoInputs.cache
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfo.cs
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.dll
+E:\Proyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.pdb
